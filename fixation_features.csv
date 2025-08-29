@@ -1,0 +1,277 @@
+fixation_count,mean_fixation_duration_ms,mean_fixation_dispersion,participant_id,trial_number,condition,trial_type,file_path
+0,,,029,2,Unknown,first,first trials/029_2.csv
+0,,,048,3,Unknown,first,first trials/048_3.csv
+0,,,016,0,Unknown,first,first trials/016_0.csv
+0,,,053,0,Unknown,first,first trials/053_0.csv
+0,,,032,1,Unknown,first,first trials/032_1.csv
+0,,,051,2,Unknown,first,first trials/051_2.csv
+0,,,051,3,Unknown,first,first trials/051_3.csv
+0,,,032,0,Unknown,first,first trials/032_0.csv
+0,,,016,1,Unknown,first,first trials/016_1.csv
+0,,,053,1,Unknown,first,first trials/053_1.csv
+0,,,048,2,Unknown,first,first trials/048_2.csv
+0,,,029,3,Unknown,first,first trials/029_3.csv
+0,,,029,1,Unknown,first,first trials/029_1.csv
+0,,,048,0,Unknown,first,first trials/048_0.csv
+0,,,016,3,Unknown,first,first trials/016_3.csv
+0,,,051,1,Unknown,first,first trials/051_1.csv
+0,,,032,2,Unknown,first,first trials/032_2.csv
+0,,,032,3,Unknown,first,first trials/032_3.csv
+0,,,051,0,Unknown,first,first trials/051_0.csv
+0,,,016,2,Unknown,first,first trials/016_2.csv
+0,,,048,1,Unknown,first,first trials/048_1.csv
+0,,,029,0,Unknown,first,first trials/029_0.csv
+0,,,034,1,Unknown,first,first trials/034_1.csv
+0,,,071,1,Unknown,first,first trials/071_1.csv
+0,,,057,2,Unknown,first,first trials/057_2.csv
+0,,,036,3,Unknown,first,first trials/036_3.csv
+0,,,009,1,Unknown,first,first trials/009_1.csv
+0,,,009,0,Unknown,first,first trials/009_0.csv
+0,,,036,2,Unknown,first,first trials/036_2.csv
+0,,,057,3,Unknown,first,first trials/057_3.csv
+0,,,071,0,Unknown,first,first trials/071_0.csv
+0,,,057,1,Unknown,first,first trials/057_1.csv
+0,,,071,2,Unknown,first,first trials/071_2.csv
+0,,,034,2,Unknown,first,first trials/034_2.csv
+0,,,036,0,Unknown,first,first trials/036_0.csv
+0,,,009,2,Unknown,first,first trials/009_2.csv
+0,,,009,3,Unknown,first,first trials/009_3.csv
+0,,,036,1,Unknown,first,first trials/036_1.csv
+0,,,071,3,Unknown,first,first trials/071_3.csv
+0,,,057,0,Unknown,first,first trials/057_0.csv
+0,,,050,1,Unknown,first,first trials/050_1.csv
+0,,,015,1,Unknown,first,first trials/015_1.csv
+0,,,033,2,Unknown,first,first trials/033_2.csv
+0,,,017,3,Unknown,first,first trials/017_3.csv
+0,,,052,3,Unknown,first,first trials/052_3.csv
+0,,,031,0,Unknown,first,first trials/031_0.csv
+0,,,049,0,Unknown,first,first trials/049_0.csv
+0,,,028,1,Unknown,first,first trials/028_1.csv
+0,,,028,0,Unknown,first,first trials/028_0.csv
+0,,,049,1,Unknown,first,first trials/049_1.csv
+0,,,031,1,Unknown,first,first trials/031_1.csv
+0,,,017,2,Unknown,first,first trials/017_2.csv
+0,,,052,2,Unknown,first,first trials/052_2.csv
+0,,,033,3,Unknown,first,first trials/033_3.csv
+0,,,050,0,Unknown,first,first trials/050_0.csv
+0,,,015,0,Unknown,first,first trials/015_0.csv
+0,,,033,1,Unknown,first,first trials/033_1.csv
+0,,,015,2,Unknown,first,first trials/015_2.csv
+0,,,050,2,Unknown,first,first trials/050_2.csv
+0,,,031,3,Unknown,first,first trials/031_3.csv
+0,,,052,0,Unknown,first,first trials/052_0.csv
+0,,,017,0,Unknown,first,first trials/017_0.csv
+0,,,049,3,Unknown,first,first trials/049_3.csv
+0,,,028,2,Unknown,first,first trials/028_2.csv
+0,,,028,3,Unknown,first,first trials/028_3.csv
+0,,,049,2,Unknown,first,first trials/049_2.csv
+0,,,052,1,Unknown,first,first trials/052_1.csv
+0,,,017,1,Unknown,first,first trials/017_1.csv
+0,,,031,2,Unknown,first,first trials/031_2.csv
+0,,,015,3,Unknown,first,first trials/015_3.csv
+0,,,050,3,Unknown,first,first trials/050_3.csv
+0,,,033,0,Unknown,first,first trials/033_0.csv
+0,,,008,2,Unknown,first,first trials/008_2.csv
+0,,,069,3,Unknown,first,first trials/069_3.csv
+0,,,011,3,Unknown,first,first trials/011_3.csv
+0,,,054,3,Unknown,first,first trials/054_3.csv
+0,,,037,0,Unknown,first,first trials/037_0.csv
+0,,,056,1,Unknown,first,first trials/056_1.csv
+1,100.0,0.2840135361063719,013,1,Unknown,first,first trials/013_1.csv
+0,,,070,2,Unknown,first,first trials/070_2.csv
+0,,,070,3,Unknown,first,first trials/070_3.csv
+1,100.0,0.0765573773796775,056,0,Unknown,first,first trials/056_0.csv
+0,,,013,0,Unknown,first,first trials/013_0.csv
+0,,,037,1,Unknown,first,first trials/037_1.csv
+0,,,011,2,Unknown,first,first trials/011_2.csv
+0,,,054,2,Unknown,first,first trials/054_2.csv
+0,,,069,2,Unknown,first,first trials/069_2.csv
+0,,,008,3,Unknown,first,first trials/008_3.csv
+0,,,008,1,Unknown,first,first trials/008_1.csv
+0,,,069,0,Unknown,first,first trials/069_0.csv
+0,,,037,3,Unknown,first,first trials/037_3.csv
+0,,,054,0,Unknown,first,first trials/054_0.csv
+0,,,011,0,Unknown,first,first trials/011_0.csv
+0,,,070,1,Unknown,first,first trials/070_1.csv
+0,,,013,2,Unknown,first,first trials/013_2.csv
+0,,,056,2,Unknown,first,first trials/056_2.csv
+0,,,013,3,Unknown,first,first trials/013_3.csv
+0,,,056,3,Unknown,first,first trials/056_3.csv
+0,,,070,0,Unknown,first,first trials/070_0.csv
+0,,,054,1,Unknown,first,first trials/054_1.csv
+0,,,011,1,Unknown,first,first trials/011_1.csv
+0,,,037,2,Unknown,first,first trials/037_2.csv
+0,,,069,1,Unknown,first,first trials/069_1.csv
+0,,,008,0,Unknown,first,first trials/008_0.csv
+1,100.0,0.07719838353318728,043,2,Unknown,first,first trials/043_2.csv
+0,,,006,2,Unknown,first,first trials/006_2.csv
+0,,,020,1,Unknown,first,first trials/020_1.csv
+0,,,065,1,Unknown,first,first trials/065_1.csv
+0,,,041,0,Unknown,first,first trials/041_0.csv
+0,,,039,0,Unknown,first,first trials/039_0.csv
+0,,,058,1,Unknown,first,first trials/058_1.csv
+0,,,058,0,Unknown,first,first trials/058_0.csv
+0,,,039,1,Unknown,first,first trials/039_1.csv
+0,,,041,1,Unknown,first,first trials/041_1.csv
+0,,,020,0,Unknown,first,first trials/020_0.csv
+0,,,065,0,Unknown,first,first trials/065_0.csv
+0,,,043,3,Unknown,first,first trials/043_3.csv
+0,,,006,3,Unknown,first,first trials/006_3.csv
+0,,,065,2,Unknown,first,first trials/065_2.csv
+0,,,020,2,Unknown,first,first trials/020_2.csv
+0,,,006,1,Unknown,first,first trials/006_1.csv
+0,,,043,1,Unknown,first,first trials/043_1.csv
+0,,,041,3,Unknown,first,first trials/041_3.csv
+0,,,039,3,Unknown,first,first trials/039_3.csv
+0,,,058,2,Unknown,first,first trials/058_2.csv
+0,,,058,3,Unknown,first,first trials/058_3.csv
+0,,,039,2,Unknown,first,first trials/039_2.csv
+0,,,041,2,Unknown,first,first trials/041_2.csv
+0,,,006,0,Unknown,first,first trials/006_0.csv
+0,,,043,0,Unknown,first,first trials/043_0.csv
+0,,,065,3,Unknown,first,first trials/065_3.csv
+0,,,020,3,Unknown,first,first trials/020_3.csv
+0,,,019,3,Unknown,first,first trials/019_3.csv
+0,,,047,0,Unknown,first,first trials/047_0.csv
+0,,,024,3,Unknown,first,first trials/024_3.csv
+0,,,026,1,Unknown,first,first trials/026_1.csv
+0,,,026,0,Unknown,first,first trials/026_0.csv
+0,,,024,2,Unknown,first,first trials/024_2.csv
+0,,,047,1,Unknown,first,first trials/047_1.csv
+0,,,019,2,Unknown,first,first trials/019_2.csv
+0,,,019,0,Unknown,first,first trials/019_0.csv
+0,,,024,0,Unknown,first,first trials/024_0.csv
+0,,,047,3,Unknown,first,first trials/047_3.csv
+0,,,026,2,Unknown,first,first trials/026_2.csv
+0,,,063,3,Unknown,first,first trials/063_3.csv
+0,,,026,3,Unknown,first,first trials/026_3.csv
+0,,,047,2,Unknown,first,first trials/047_2.csv
+0,,,024,1,Unknown,first,first trials/024_1.csv
+0,,,019,1,Unknown,first,first trials/019_1.csv
+0,,,038,3,Unknown,first,first trials/038_3.csv
+0,,,066,0,Unknown,first,first trials/066_0.csv
+0,,,040,3,Unknown,first,first trials/040_3.csv
+0,,,021,2,Unknown,first,first trials/021_2.csv
+0,,,064,2,Unknown,first,first trials/064_2.csv
+0,,,042,1,Unknown,first,first trials/042_1.csv
+0,,,042,0,Unknown,first,first trials/042_0.csv
+0,,,021,3,Unknown,first,first trials/021_3.csv
+0,,,064,3,Unknown,first,first trials/064_3.csv
+0,,,040,2,Unknown,first,first trials/040_2.csv
+0,,,066,1,Unknown,first,first trials/066_1.csv
+0,,,038,2,Unknown,first,first trials/038_2.csv
+0,,,040,0,Unknown,first,first trials/040_0.csv
+0,,,066,3,Unknown,first,first trials/066_3.csv
+0,,,042,2,Unknown,first,first trials/042_2.csv
+0,,,064,1,Unknown,first,first trials/064_1.csv
+0,,,021,1,Unknown,first,first trials/021_1.csv
+0,,,064,0,Unknown,first,first trials/064_0.csv
+0,,,021,0,Unknown,first,first trials/021_0.csv
+0,,,042,3,Unknown,first,first trials/042_3.csv
+0,,,066,2,Unknown,first,first trials/066_2.csv
+0,,,040,1,Unknown,first,first trials/040_1.csv
+0,,,038,1,Unknown,first,first trials/038_1.csv
+0,,,027,2,Unknown,first,first trials/027_2.csv
+0,,,062,2,Unknown,first,first trials/062_2.csv
+0,,,001,1,Unknown,first,first trials/001_1.csv
+0,,,060,0,Unknown,first,first trials/060_0.csv
+0,,,025,0,Unknown,first,first trials/025_0.csv
+0,,,003,3,Unknown,first,first trials/003_3.csv
+0,,,003,2,Unknown,first,first trials/003_2.csv
+0,,,060,1,Unknown,first,first trials/060_1.csv
+0,,,025,1,Unknown,first,first trials/025_1.csv
+0,,,001,0,Unknown,first,first trials/001_0.csv
+0,,,027,3,Unknown,first,first trials/027_3.csv
+0,,,062,3,Unknown,first,first trials/062_3.csv
+0,,,001,2,Unknown,first,first trials/001_2.csv
+0,,,062,1,Unknown,first,first trials/062_1.csv
+0,,,027,1,Unknown,first,first trials/027_1.csv
+0,,,003,0,Unknown,first,first trials/003_0.csv
+0,,,025,3,Unknown,first,first trials/025_3.csv
+0,,,060,3,Unknown,first,first trials/060_3.csv
+0,,,025,2,Unknown,first,first trials/025_2.csv
+0,,,060,2,Unknown,first,first trials/060_2.csv
+0,,,003,1,Unknown,first,first trials/003_1.csv
+1,100.0,0.399976255881202,062,0,Unknown,first,first trials/062_0.csv
+0,,,027,0,Unknown,first,first trials/027_0.csv
+0,,,001,3,Unknown,first,first trials/001_3.csv
+0,,,029,2,Unknown,repeat,repeats/029_2.csv
+0,,,048,3,Unknown,repeat,repeats/048_3.csv
+0,,,016,0,Unknown,repeat,repeats/016_0.csv
+0,,,032,1,Unknown,repeat,repeats/032_1.csv
+0,,,032,0,Unknown,repeat,repeats/032_0.csv
+0,,,016,1,Unknown,repeat,repeats/016_1.csv
+0,,,048,2,Unknown,repeat,repeats/048_2.csv
+0,,,029,3,Unknown,repeat,repeats/029_3.csv
+0,,,029,1,Unknown,repeat,repeats/029_1.csv
+0,,,048,0,Unknown,repeat,repeats/048_0.csv
+0,,,016,3,Unknown,repeat,repeats/016_3.csv
+0,,,032,2,Unknown,repeat,repeats/032_2.csv
+0,,,032,3,Unknown,repeat,repeats/032_3.csv
+0,,,016,2,Unknown,repeat,repeats/016_2.csv
+0,,,048,1,Unknown,repeat,repeats/048_1.csv
+0,,,029,0,Unknown,repeat,repeats/029_0.csv
+0,,,071,1,Unknown,repeat,repeats/071_1.csv
+0,,,057,2,Unknown,repeat,repeats/057_2.csv
+0,,,036,3,Unknown,repeat,repeats/036_3.csv
+0,,,009,1,Unknown,repeat,repeats/009_1.csv
+0,,,009,0,Unknown,repeat,repeats/009_0.csv
+0,,,036,2,Unknown,repeat,repeats/036_2.csv
+0,,,071,0,Unknown,repeat,repeats/071_0.csv
+0,,,057,1,Unknown,repeat,repeats/057_1.csv
+0,,,071,2,Unknown,repeat,repeats/071_2.csv
+0,,,036,0,Unknown,repeat,repeats/036_0.csv
+0,,,009,2,Unknown,repeat,repeats/009_2.csv
+0,,,009,3,Unknown,repeat,repeats/009_3.csv
+0,,,036,1,Unknown,repeat,repeats/036_1.csv
+0,,,071,3,Unknown,repeat,repeats/071_3.csv
+0,,,057,0,Unknown,repeat,repeats/057_0.csv
+0,,,049,0,Unknown,repeat,repeats/049_0.csv
+0,,,049,1,Unknown,repeat,repeats/049_1.csv
+0,,,049,3,Unknown,repeat,repeats/049_3.csv
+0,,,049,2,Unknown,repeat,repeats/049_2.csv
+0,,,011,3,Unknown,repeat,repeats/011_3.csv
+0,,,054,3,Unknown,repeat,repeats/054_3.csv
+0,,,072,0,Unknown,repeat,repeats/072_0.csv
+74,109.45945945945945,0.032957343095462215,056,0,Unknown,repeat,repeats/056_0.csv
+0,,,072,1,Unknown,repeat,repeats/072_1.csv
+0,,,011,2,Unknown,repeat,repeats/011_2.csv
+0,,,054,2,Unknown,repeat,repeats/054_2.csv
+0,,,054,0,Unknown,repeat,repeats/054_0.csv
+104,111.0576923076923,0.012318996033853566,056,2,Unknown,repeat,repeats/056_2.csv
+97,110.65292096219932,0.030325452382957325,056,3,Unknown,repeat,repeats/056_3.csv
+0,,,054,1,Unknown,repeat,repeats/054_1.csv
+0,,,011,1,Unknown,repeat,repeats/011_1.csv
+0,,,072,2,Unknown,repeat,repeats/072_2.csv
+0,,,006,2,Unknown,repeat,repeats/006_2.csv
+0,,,065,1,Unknown,repeat,repeats/065_1.csv
+0,,,041,0,Unknown,repeat,repeats/041_0.csv
+0,,,058,1,Unknown,repeat,repeats/058_1.csv
+0,,,058,0,Unknown,repeat,repeats/058_0.csv
+0,,,041,1,Unknown,repeat,repeats/041_1.csv
+0,,,065,0,Unknown,repeat,repeats/065_0.csv
+0,,,006,3,Unknown,repeat,repeats/006_3.csv
+0,,,065,2,Unknown,repeat,repeats/065_2.csv
+0,,,006,1,Unknown,repeat,repeats/006_1.csv
+0,,,041,3,Unknown,repeat,repeats/041_3.csv
+0,,,058,2,Unknown,repeat,repeats/058_2.csv
+0,,,058,3,Unknown,repeat,repeats/058_3.csv
+0,,,041,2,Unknown,repeat,repeats/041_2.csv
+0,,,006,0,Unknown,repeat,repeats/006_0.csv
+0,,,065,3,Unknown,repeat,repeats/065_3.csv
+0,,,047,0,Unknown,repeat,repeats/047_0.csv
+0,,,047,1,Unknown,repeat,repeats/047_1.csv
+0,,,047,3,Unknown,repeat,repeats/047_3.csv
+0,,,047,2,Unknown,repeat,repeats/047_2.csv
+0,,,021,2,Unknown,repeat,repeats/021_2.csv
+0,,,042,1,Unknown,repeat,repeats/042_1.csv
+0,,,042,0,Unknown,repeat,repeats/042_0.csv
+0,,,021,3,Unknown,repeat,repeats/021_3.csv
+0,,,042,2,Unknown,repeat,repeats/042_2.csv
+0,,,021,1,Unknown,repeat,repeats/021_1.csv
+0,,,021,0,Unknown,repeat,repeats/021_0.csv
+0,,,042,3,Unknown,repeat,repeats/042_3.csv
+0,,,062,2,Unknown,repeat,repeats/062_2.csv
+0,,,062,3,Unknown,repeat,repeats/062_3.csv
+0,,,062,1,Unknown,repeat,repeats/062_1.csv
+0,,,062,0,Unknown,repeat,repeats/062_0.csv
